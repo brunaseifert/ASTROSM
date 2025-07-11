@@ -1,11 +1,10 @@
 # ASTROSM
 
-Um site interativo para explorar constelações, mitos e curiosidades do céu!
+Um site interativo para explorar constelações, mitos e curiosidades.
 
 ## Funcionalidades
 - Navegação entre seções: Início, Constelações e Mitos, Sobre.
-- Cards de constelações com efeito 3D e reflexo ao passar o mouse.
-- Fundo animado de partículas simulando estrelas em movimento.
+- Fundo animado de partículas simulando estrelas em movimento.BN
 - Modal de inscrição para receber novidades por e-mail.
 - Seção "Sobre" com créditos e links para redes sociais.
 
