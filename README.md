@@ -2,6 +2,9 @@
 
 Um site interativo para explorar constelações, mitos e curiosidades.
 
+![Texto alternativo](<img width="1363" height="917" alt="ASTROSM" src="https://github.com/user-attachments/assets/1eff8b21-4351-45af-b69a-0579633f1c3a" />
+ "ASTROM")
+
 ## Funcionalidades
 - Navegação entre seções: Início, Constelações e Mitos, Sobre.
 - Fundo animado de partículas simulando estrelas em movimento.BN
