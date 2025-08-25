@@ -7,9 +7,8 @@ Um site interativo para explorar constelações, mitos e curiosidades.
 
 ## Funcionalidades
 - Navegação entre seções: Início, Constelações e Mitos, Sobre.
-- Fundo animado de partículas simulando estrelas em movimento.BN
+- Fundo animado de partículas simulando estrelas em movimento.
 - Modal de inscrição para receber novidades por e-mail.
-- Seção "Sobre" com créditos e links para redes sociais.
 
 ## Estrutura dos arquivos
 - `index.html`: Estrutura principal do site, navegação, seções, modal e scripts.
@@ -27,6 +26,4 @@ Um site interativo para explorar constelações, mitos e curiosidades.
 - Autoria: Bruna
 - Redes sociais: Instagram [@brunaseifertt](https://instagram.com/brunaseifertt), Discord, Twitch
 
----
 
-Sinta-se à vontade para customizar, compartilhar e contribuir!
