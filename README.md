@@ -19,11 +19,11 @@ Um site interativo para explorar constelações, mitos e curiosidades.
 ## Como rodar
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em seu navegador.
-3. Pronto! O site funciona 100% local, sem necessidade de backend.
+
 
 ## Créditos
 - Vetores: [Vecteezy](https://www.vecteezy.com/)
-- Autoria: Bruna
-- Redes sociais: Instagram [@brunaseifertt](https://instagram.com/brunaseifertt), Discord, Twitch
+
+
 
 
