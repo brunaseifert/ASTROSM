@@ -10,19 +10,15 @@ Um site interativo para explorar constelações, mitos e curiosidades.
 - Fundo animado de partículas simulando estrelas em movimento.
 - Modal de inscrição para receber novidades por e-mail.
 
-## Estrutura dos arquivos
+## Tecnologias utilizadas
 - `index.html`: Estrutura principal do site, navegação, seções, modal e scripts.
 - `style.css`: Estilos customizados e responsividade.
 - `script.js`: Configuração das partículas (estrelas animadas).
-- Imagens: Pasta `img/` com imagens das constelações.
-
-## Como rodar
-1. Clone o repositório.
-2. Abra o arquivo `index.html` em seu navegador.
-
+  
 
 ## Créditos
 - Vetores: [Vecteezy](https://www.vecteezy.com/)
+
 
 
 
